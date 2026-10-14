@@ -1,0 +1,8 @@
+pandas>=2.0
+numpy>=1.26
+sqlalchemy>=2.0
+anthropic>=0.40        # only used when ANTHROPIC_API_KEY is set
+pytest>=8.0
+# Optional targets:
+# pyodbc                 (SQL Server)
+# snowflake-sqlalchemy   (Snowflake)
