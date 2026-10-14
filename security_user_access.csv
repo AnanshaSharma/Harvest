@@ -1,0 +1,17 @@
+email,role,region,store_key
+exec@harvest.example,Executive,,
+north.manager@harvest.example,Regional,North,
+south.manager@harvest.example,Regional,South,
+west.manager@harvest.example,Regional,West,
+store1@harvest.example,Store,North,1.0
+store2@harvest.example,Store,North,2.0
+store3@harvest.example,Store,North,3.0
+store4@harvest.example,Store,North,4.0
+store5@harvest.example,Store,South,5.0
+store6@harvest.example,Store,South,6.0
+store7@harvest.example,Store,South,7.0
+store8@harvest.example,Store,South,8.0
+store9@harvest.example,Store,West,9.0
+store10@harvest.example,Store,West,10.0
+store11@harvest.example,Store,West,11.0
+store12@harvest.example,Store,West,12.0

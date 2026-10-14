@@ -1,0 +1,13 @@
+store_key,store_name,region,city,format,open_date
+1,Harvest Delhi,North,Delhi,Standard,2020-08-26
+2,Harvest Gurugram,North,Gurugram,Express,2022-05-19
+3,Harvest Chandigarh,North,Chandigarh,Express,2022-07-11
+4,Harvest Jaipur,North,Jaipur,Standard,2022-05-26
+5,Harvest Bengaluru,South,Bengaluru,Flagship,2020-10-30
+6,Harvest Chennai,South,Chennai,Express,2022-09-01
+7,Harvest Hyderabad,South,Hyderabad,Express,2021-03-30
+8,Harvest Kochi,South,Kochi,Standard,2019-08-20
+9,Harvest Mumbai,West,Mumbai,Standard,2022-09-20
+10,Harvest Pune,West,Pune,Express,2020-07-09
+11,Harvest Ahmedabad,West,Ahmedabad,Standard,2020-05-10
+12,Harvest Surat,West,Surat,Standard,2019-12-07

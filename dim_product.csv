@@ -1,0 +1,41 @@
+product_key,sku,product_name,category,unit_cost,unit_price,shelf_life_days,supplier_key
+1,SKU-0001,Sourdough Loaf,Bakery,286.1,388.9,3,1
+2,SKU-0002,Croissant,Bakery,325.81,451.45,3,2
+3,SKU-0003,Bagel,Bakery,279.35,362.85,3,3
+4,SKU-0004,Muffin,Bakery,22.8,34.78,3,4
+5,SKU-0005,Baguette,Bakery,287.96,438.64,3,5
+6,SKU-0006,Whole Milk 1L,Dairy,236.12,306.7,7,6
+7,SKU-0007,Greek Yogurt,Dairy,273.99,387.66,7,7
+8,SKU-0008,Cheddar Block,Dairy,310.7,457.4,7,8
+9,SKU-0009,Butter,Dairy,232.5,315.36,7,1
+10,SKU-0010,Paneer,Dairy,185.95,246.4,7,2
+11,SKU-0011,Tomatoes,Produce,344.29,458.55,5,3
+12,SKU-0012,Spinach,Produce,126.93,171.71,5,4
+13,SKU-0013,Bananas,Produce,231.67,353.15,5,5
+14,SKU-0014,Avocados,Produce,174.43,267.73,5,6
+15,SKU-0015,Bell Peppers,Produce,28.63,36.69,5,7
+16,SKU-0016,Chicken Breast,Meat & Fish,195.51,255.42,4,8
+17,SKU-0017,Minced Mutton,Meat & Fish,77.88,116.33,4,1
+18,SKU-0018,Salmon Fillet,Meat & Fish,164.79,223.38,4,2
+19,SKU-0019,Prawns,Meat & Fish,157.49,201.69,4,3
+20,SKU-0020,Chicken Sausages,Meat & Fish,385.52,604.5,4,4
+21,SKU-0021,Cold Brew,Beverages,121.03,192.34,180,5
+22,SKU-0022,Orange Juice,Beverages,292.42,411.52,180,6
+23,SKU-0023,Sparkling Water,Beverages,56.63,88.68,180,7
+24,SKU-0024,Iced Tea,Beverages,96.9,131.5,180,8
+25,SKU-0025,Energy Drink,Beverages,87.17,135.1,180,1
+26,SKU-0026,Trail Mix,Snacks,293.4,411.12,120,2
+27,SKU-0027,Potato Chips,Snacks,241.96,357.48,120,3
+28,SKU-0028,Granola Bar,Snacks,178.01,225.11,120,4
+29,SKU-0029,Popcorn,Snacks,145.35,189.04,120,5
+30,SKU-0030,Dark Chocolate,Snacks,243.3,318.65,120,6
+31,SKU-0031,Frozen Pizza,Frozen,240.8,330.23,90,7
+32,SKU-0032,Ice Cream,Frozen,28.67,45.46,90,8
+33,SKU-0033,Frozen Peas,Frozen,317.44,405.99,90,1
+34,SKU-0034,French Fries,Frozen,206.47,325.86,90,2
+35,SKU-0035,Dumplings,Frozen,199.93,268.59,90,3
+36,SKU-0036,Basmati Rice,Pantry,217.86,305.79,365,4
+37,SKU-0037,Olive Oil,Pantry,333.99,522.25,365,5
+38,SKU-0038,Pasta,Pantry,230.53,296.92,365,6
+39,SKU-0039,Coffee Beans,Pantry,126.87,187.87,365,7
+40,SKU-0040,Peanut Butter,Pantry,312.09,401.88,365,8
